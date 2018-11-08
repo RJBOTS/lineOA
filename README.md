@@ -9,7 +9,7 @@ line_bot_api = LineBotApi('YOUR CHANNEL ACCESS TOKEN')
 handler = WebhookHandler('YOUR CHANEL SCREET')
 ```
 ## add me for ask something
-line id : arsy22bai
+line id : erinalubis01
 
 1. USE [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)、[Git](https://git-scm.com/)
 2. or you can install in ubuntu
